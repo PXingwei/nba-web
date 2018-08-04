@@ -1,0 +1,16 @@
+@import "./TopNavBar.css";
+@import "./Main.css";
+@import "./Profile.css";
+@import "./DataViewContainer.css";
+@import "./ShotChart.css";
+@import "./SearchBar.css";
+
+.App {
+  text-align: center;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
